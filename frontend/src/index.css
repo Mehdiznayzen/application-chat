@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Kalnia:wght@500;600;700&family=Roboto+Slab:wght@300;400;500;600;700;800;900&family=Whisper&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+}
+
+body{
+    overflow: hidden;
+    max-height: 100vh;
+    max-width: 100vw;
+}
